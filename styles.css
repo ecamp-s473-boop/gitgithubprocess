@@ -9,3 +9,9 @@ h1{
 h2{
     background-color: antiquewhite;
 }
+
+ul{
+    margin-left: 1rem;
+    background-color: aquamarine;
+    border: 2px solid rgb(223, 209, 191)
+}
